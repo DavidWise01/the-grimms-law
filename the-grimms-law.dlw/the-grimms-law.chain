@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1723
+slug  : the-grimms-law
+seal  : 0385d08dbb75757015c52dcc16ce2e008caa957b0c36fb8caa176d39d10935fb
+prev  : b5f1d35a62249ca1891c7e49cc8550488a0c211bafebce68a5471886712d3fc9
+link  : 25a6c1d30226d6d80595247b20d3d4e3886594d46d3e61d2b3cc40d3f4612e4b
+head  : 2efc53d34295a879fc8e88bc5969e2f9835648e05a1ec37e760abb694f571c96
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
